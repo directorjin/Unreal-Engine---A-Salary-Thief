@@ -1,6 +1,20 @@
 # Unreal-Engine-Game---a-salary-thief
 Unreal Engine Game- a salary thief
 
+<hr/>  
+  
+GitHubの容量問題でGoogleDriveLinkでソースファイルをダウンロードしてください。
+===========
+  
+Build File : https://drive.google.com/open?id=1YK_DUQPREFtyYVKiWAUyJxexEmtptcBy
+  
+Source File : https://drive.google.com/open?id=1Ayt3_MfrZwimGkihlZbBLb3Z6arep0M0
+  
+<hr/>  
+  
+  
+  
+  
 Description
 ===========
   
@@ -167,12 +181,22 @@ AIがプレイヤーを間近で見つけると"追撃状態"になる。
 *そうさせた理由 : 長くないゲームであるだけに、エンディングを見ながらプレイヤーが笑えるようにしてあげたかった。
 短いゲームでも面白い記憶で残りたかった。*
   
-<hr/>  
+<hr/> 
+
+Play Video
+-----------
   
-P.S
+<hr/> 
+  
+反省
+---------
 Unreal Engineを勉強し、初めて作ったゲームだった。 AIのプログラミングが複雑でまだまだ少しバグがあるが、
 ゲームの全体的なレベルデザインがうまくできていると思う。  
-いろんな機能もプレイヤーを思いながら作ってやりがいがあった。
-<hr/>  
-
-
+いろんな機能もプレイヤーを思いながら作ってやりがいがあった。  
+しかし、マップをもう少し大きくし、様々な敵と様々なアイテム(トラップや麻酔銃)を作ればよかったという残念な気持ちが残った。
+  
+<hr/> 
+  
+開発環境
+--------
+Unreal Engine 4.22
