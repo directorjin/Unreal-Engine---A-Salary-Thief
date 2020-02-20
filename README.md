@@ -3,7 +3,7 @@ Unreal Engine Game- a salary thief
 
 <hr/>  
   
-GitHubの容量問題でGoogleDriveLinkでソースファイルをダウンロードしてください。
+GitHubの容量問題のためGoogle drive linkからソースファイルをダウンロードして下さい。
 ===========
   
 Build File : https://drive.google.com/open?id=1YK_DUQPREFtyYVKiWAUyJxexEmtptcBy
