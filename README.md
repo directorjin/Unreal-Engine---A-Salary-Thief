@@ -1,5 +1,14 @@
 # Unreal-Engine-Game---a-salary-thief
-Unreal Engine Game- a salary thief
+
+<hr>  
+
+🕹️How to Play
+-------------
+
+移動キー  
+<img width="500" src="https://user-images.githubusercontent.com/44941601/76394836-76b69c00-63b9-11ea-88f8-7c440efeffb5.png">
+     
+
 
 <hr/>  
   
